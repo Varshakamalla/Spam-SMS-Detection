@@ -19,6 +19,9 @@ This is a web-based machine learning project that detects whether an SMS message
 
 The dataset used is [spam.csv](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset), containing labeled SMS messages as 'spam' or 'ham'.
 
+## 📷 Screenshot
+![image](https://github.com/user-attachments/assets/00898f57-19a9-46d6-8545-d85b592961cb)
+
 ## 📦 Installation
 
 1. Clone this repo  
